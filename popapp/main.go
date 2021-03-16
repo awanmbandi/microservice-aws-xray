@@ -10,7 +10,7 @@ import (
 )
 
 const defaultPort = "9002"
-const defaultArtists = "Lady Gaga, Madonna"
+const defaultArtists = "JJTech Institute, Jespo Mbongwe"
 const defaultStage = "dev"
 
 func getServerPort() string {
